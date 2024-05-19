@@ -2,7 +2,7 @@
 
 ## 1. Présentation
 
-*Schéma*
+![Architecture de l'API](architecture-api.png)
 
 Les trois fichiers .jar sont à importer dans AnyPoint Studio, ils ne peuvent pas être déployés directement.
 
