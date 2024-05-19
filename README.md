@@ -11,6 +11,8 @@ Ports utilisés en dev (fichier dev.yaml):
 - p-covidusa-api : 8082
 - s-usdepartment-api : 8083
 
+Seul le fichier dev.yaml de s-udepartment-api doit être impérativement modifié pour tester l'api, comme indiqué [ici](#2.2-s-usdepartment-api).
+
 ## 2. Instructions pour le déploiement :
 
 ### 2.1. s-covidtracking-api
